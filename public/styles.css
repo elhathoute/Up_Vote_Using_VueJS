@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffffe0;
+}
+#app>h2{
+    padding-top: 40px;
+    text-decoration: underline;
+}
+#app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.my-border-article{
+    border: 2px solid rgb(58, 53, 53);
+    padding: 12px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.blue-border{
+    border: 2px solid rgb(51, 18, 243)!important;
+    background-color: rgb(181, 211, 241)!important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
+.red-border{
+    border: 2px solid rgb(243, 18, 123)!important;
+    background-color: rgb(220, 108, 134)!important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}

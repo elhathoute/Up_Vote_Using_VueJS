@@ -1,0 +1,36 @@
+const submissions=[
+    {
+        id:1,
+        title:"Mohammed",
+        description:"lorem lorem lorem lorem lorem",
+        url:"#",
+        votes:"12",
+        avatar:"../public/images/user-11.jpg",
+        submissionImage:"../public/images/user-14.jpg",
+    },
+    {
+        id:2,
+        title:"abdelaziz",
+        description:"lorem lorem lorem lorem lorem",
+        url:"#",
+        votes:"10",
+        avatar:"../public/images/user-1.jpg",
+        submissionImage:"../public/images/user-13.jpg",
+    }, {
+        id:3,
+        title:"Said",
+        description:"lorem lorem lorem lorem lorem",
+        url:"#",
+        votes:"2",
+        avatar:"../public/images/user-10.jpg",
+        submissionImage:"../public/images/user-9.jpg",
+    }, {
+        id:4,
+        title:"Karim",
+        description:"lorem lorem lorem lorem lorem",
+        url:"#",
+        votes:"22",
+        avatar:"../public/images/user-8.jpg",
+        submissionImage:"../public/images/user-2.jpg",
+    },
+];
